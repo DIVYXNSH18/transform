@@ -78,7 +78,7 @@ Operators can fine-tune generation parameters directly from the dashboard:
 
 ## 📁 Evaluation & Submission Deliverables
 
-- **Source Code Repository**: [https://github.com/vartika00/transform_ai_final/tree/backend](https://github.com/vartika00/transform_ai_final/tree/backend)
+- **Source Code Repository**: [https://github.com/DIVYXNSH18/transform](https://github.com/DIVYXNSH18/transform)
 - **Architecture Document (Max 2 Pages)**: [`ARCHITECTURE.md`](./ARCHITECTURE.md)
 - **Technical Presentation (Max 5 Slides)**: [`TransformAI_Technical_Presentation.pptx`](./TransformAI_Technical_Presentation.pptx) ([Markdown Transcript](./TECHNICAL_PRESENTATION.md))
 - **Demo Video Script (Max 2 Minutes)**: [`DEMO_VIDEO_SCRIPT.md`](./DEMO_VIDEO_SCRIPT.md)
