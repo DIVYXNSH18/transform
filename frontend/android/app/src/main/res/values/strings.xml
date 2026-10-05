@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">TransformAI</string>
+    <string name="title_activity_main">TransformAI</string>
+    <string name="package_name">com.transformai.app</string>
+    <string name="custom_url_scheme">com.transformai.app</string>
+</resources>
